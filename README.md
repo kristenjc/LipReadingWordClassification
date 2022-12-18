@@ -1,4 +1,4 @@
-# Lip Reading Word Classification-
+# Lip Reading Word Classification 
 
 ## Project Description 
 
