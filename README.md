@@ -13,6 +13,8 @@ The MIRACL_V1 data used for this project can be downloaded from this [link](http
 
 
 ## Instructions 
+1. Make sure the path in the notebooks is the correct path to the directory where the data is located on. 
+2. Run preprocessing_MIRACL_V1.ipynb before running the training or tuning notebooks. 
 
 ## Results
 
