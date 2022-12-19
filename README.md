@@ -26,7 +26,9 @@ The MIRACL_V1 data used for this project can be downloaded from this [link](http
 
 **Grid search on hyperparameters:**
 ![hyperparameter](https://drive.google.com/uc?id=1RNfHYtlfZT4w36Gg1gp3BmmiIFefT_5P)
+
 Final model with learning rate 0.001 and batch size 32:
+
 ![accuracy](https://drive.google.com/uc?id=1JrfKOU60T5NDU8fX51lzzCrcIbaHEIkp)
 
 **Final model performance:**
