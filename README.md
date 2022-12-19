@@ -21,6 +21,7 @@ The MIRACL_V1 data used for this project can be downloaded from this [link](http
 ## Resources Used and Relevant Works 
 * [LipNet: End-to-End Sentence-level Lipreading](https://arxiv.org/abs/1611.01599)
 * [Implementation of LipNet](https://github.com/rizkiarm/LipNet)
+* [Implementation of LipNet-2](https://github.com/PingYufeng/LipNet-2)
 * [Lip Reading Word Classification](https://www.semanticscholar.org/paper/Lip-Reading-Word-Classification-Guti%C3%A9rrez-University/d3047c6191f4f771f5c02a97b6c5abbc4aaa72c2)
 * [Blog Post about CNN-LSTM Networks](https://machinelearningmastery.com/cnn-long-short-term-memory-networks/)
 * [Lip Reading by CNN and LSTM Architecture](https://github.com/ljw20155136/Lip-reading-by-CNN-and-LSTM-architecture)
