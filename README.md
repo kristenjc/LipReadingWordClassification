@@ -38,6 +38,7 @@ Final model with learning rate 0.001 and batch size 32:
 - Top 2 accuracy: 0.4
 - Top 3 accuracy: 0.56
 
+![heatmap](https://drive.google.com/uc?id=1UFTBF7K2aTAlXSCuC5zTbZ9BazSilxYb)
 
 ## Resources Used and Relevant Works 
 * [LipNet: End-to-End Sentence-level Lipreading](https://arxiv.org/abs/1611.01599)
