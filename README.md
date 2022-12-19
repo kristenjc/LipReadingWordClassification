@@ -19,3 +19,13 @@ The MIRACL_V1 data used for this project can be downloaded from this [link](http
 ## Results
 
 ## Resources Used and Relevant Works 
+* [LipNet: End-to-End Sentence-level Lipreading](https://arxiv.org/abs/1611.01599)
+* [Implementation of LipNet](https://github.com/rizkiarm/LipNet)
+* [Lip Reading Word Classification](https://www.semanticscholar.org/paper/Lip-Reading-Word-Classification-Guti%C3%A9rrez-University/d3047c6191f4f771f5c02a97b6c5abbc4aaa72c2)
+* [Blog Post about CNN-LSTM Networks](https://machinelearningmastery.com/cnn-long-short-term-memory-networks/)
+* [Lip Reading by CNN and LSTM Architecture](https://github.com/ljw20155136/Lip-reading-by-CNN-and-LSTM-architecture)
+* [Visual Speech Recognition of Lips Images Using Convolutional Neural Network in VGG-M Model](https://www.semanticscholar.org/paper/Visual-Speech-Recognition-of-Lips-Images-Using-in-Chan-Lau/66fe079106dfa5d6e3bd5a7871622e2e4561fef3)
+* [Lip2Word](https://github.com/khazit/Lip2Word)
+* [Lip Reading in the Wild](https://www.robots.ox.ac.uk/~vgg/publications/2016/Chung16/chung16.pdf)
+* [Kaggle Lip Reading Image](https://www.kaggle.com/datasets/apoorvwatsky/miraclvc1)
+
